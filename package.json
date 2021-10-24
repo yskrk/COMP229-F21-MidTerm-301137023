@@ -1,5 +1,5 @@
 {
-  "name": "comp229-f2021-midterm",
+  "name": "comp229-f2021-midterm-301137023",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -54,8 +54,5 @@
   ],
   "author": "Yusuke Kuroki",
   "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
   "homepage": ""
 }
