@@ -108,7 +108,9 @@ $.fn.pageMe = function(opts){
   $(".btn-danger").click(function(event){
     if(!confirm("Are you sure?")) {
       event.preventDefault();
-      window.location.assign("/games");
+	//   301137023 Yusuke Kuroki fixed assign to the list
+    //   window.location.assign("/games");
+      window.location.assign("/books");
     }
   });
 
